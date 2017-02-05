@@ -19,7 +19,7 @@ If you don't want to install anaconda, you may choose to install **pip** *(but o
 python get-pip.py
 ```
 
-A full guide on how to install pip you can find [here](https://pip.pypa.io/en/stable/installing/).
+A full guide on how to install pip you can find [here](https://pip.pypa.io/en/stable/installing/). I recommend using **pip** over **anaconda** as it can seem quite overwhelming for beginners.
 
 #### Note
 When you'll google `"Python"`, you might stumble upon different versions of it. **Python 2.7** is the old one and **Python 3.x** is the new one. Of course we'll be using the new one. They actually are two different programming languages (though might not look very different). Please do not mistake the python version.
