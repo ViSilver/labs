@@ -1,0 +1,16 @@
+### Submission rules (you've seen them before)
+- You have to send the report to victor.turcanu8@gmail.com (to be updated to a corporate email)
+- The email title has to be [FAF-151][CO] Lab 1, and must be sent from your corporate university email.
+- The report should contain the following:
+  - A .pdf file with the problems
+  - An archive with a folder for every problem (named 'problem1', 'problem2', etc)
+  - The folders should include the source files in the programming language of your choice (for python, include .py files)
+  - If your program requires some third party libraries, include all the dependencies and a link where they can be downloaded (or some instructions how can they be added to the project)
+  - The .pdf should contain:
+    - 1 page for each problem
+    - title page
+    - every page should specify:
+      - Problem text
+      - A description of the solution (2-3 paragraphs of explanation)
+- if you do not send the report by the deadline, you will be deducted 40% from your mark
+- if your problems contain code that you cannot explain, you will be deducted 40% from your mark
