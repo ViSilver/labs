@@ -1,0 +1,31 @@
+             (3)            (2)
+            Puskin     Emin. Theatre
+              ^              ^
+              |              |
+Emin   -->   Kog   -->   Casa Presei 
+(2, 3,      (2, 3           (2, 
+10, 24)     10, 24)        10, 24)  
+
+                             |
+                             |
+
+                       Stefan cel Mare    <--   Licurici
+                       (7, 10, 24, 25)           (7, 25)
+
+                             |
+                             |
+
+                            ASEM
+                       (7, 10, 24, 25)
+
+                             |
+                             |
+
+  T. Vladimirescu   <--    Circul     -->    Central Typography 
+        (7)            (7, 10, 24, 25)             (25)
+
+                             |
+                             |
+
+                            Kiev
+                          (10, 24)
