@@ -33,4 +33,11 @@ Given the [passenger traffic load](https://github.com/ViSilver/labs/blob/master/
 PS: Consider that there can be max 70 people in a trolleybus. 
 
 
+### As a bonus
+[Here](http://rtec.md/rute/3/3-26-70-eminescu.pdf) you may find the timetable for trolleybus number **3** for the station *str. Mihai Eminescu*. Try to apply your algorithm from the second subproblem to the timetable given by RTEC (Regia Transport Electric Chisinau). Again, you may consider just the first third of the timetable. To make the data input easier, you may convert the given pdf to a different format. Something like [this](http://www.pdftohtml.net). 
+
+Good luck!
+
+
+
 
