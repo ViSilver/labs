@@ -30,5 +30,7 @@ Given the [timetables](https://github.com/ViSilver/labs/tree/master/ot/lab1/stat
 ### Subproblem 3 
 Given the [passenger traffic load](https://github.com/ViSilver/labs/blob/master/ot/lab1/stations/station_graph.txt) between two stations (written in the parentheses), find an algorithm to determine the number of trolleybuses of each type needed to satisfy the law obedient citizens' needs that use the public transportation. For example, how many trolleybuses of number 3 are needed to completely consume the load? If there isn't sufficient data, what would you need more to take into consideration? 
 
+PS: Consider that there can be max 70 people in a trolleybus. 
+
 
 
