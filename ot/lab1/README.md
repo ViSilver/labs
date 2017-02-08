@@ -20,7 +20,7 @@ Unfortunately, Aunt Marry is upset by the way the municipal transport is optimiz
 
 
 ### Subproblem 1
-Given the [timetables](https://github.com/ViSilver/labs/tree/master/ot/lab1/stations) of trolleybus arrival, find an algorithm to optimize the traffic from station **Circul** to station **Ștefan cel Mare**. Visualize the data output of your solution.
+Given the [timetables](https://github.com/ViSilver/labs/tree/master/ot/lab1/stations) of trolleybus arrival, find an algorithm to optimize the traffic from station **Ștefan cel Mare** to station **Circul**. Visualize the data output of your solution.
 
 
 ### Subproblem 2 
