@@ -32,7 +32,7 @@ Are you still in mood for gambling? Why don't we get more serious then! Let's ro
 
 Your task is to find the probability for both cases. After you've computed the probability for the initial conditions please also find out what are the probabilities in case the bullets are not adjacent. After you're done with that, compute the same probabilities only when the gun has a 5 slots barrel and 2 bullets. At the end you have to present the result for 8 different outcomes. Good luck staying alive.
 
-![](https://github.com/ViSilver/labs/blob/master/aux/fish_russian_roulette.png)
+![](https://github.com/ViSilver/labs/blob/master/aux/fish_russian_roulette.jpg)
 
 ### 3. Catch them all
 Assume that every time you buy a box of Chio (a moldovan brand of chips), you receive one of the pictures of the n of the members of the NOROC band. Over a period of time, you buy m ≥ n boxes of Chio. Write a computer program to compute the probability that you get all n members of NOROC. Use this program to find, for given n, the smallest value of m which will give probability ≥ .5 of getting all n pictures. Consider n = 50,100, and 150 and show that m = n log n + n log 2 is a good estimate for the number of boxes needed.
