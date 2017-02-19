@@ -35,7 +35,7 @@ Your task is to find the probability for both cases. After you've computed the p
 ![](https://github.com/ViSilver/labs/blob/master/aux/fish_russian_roulette.jpg)
 
 ### 3. Catch them all
-Assume that every time you buy a box of Chio (a moldovan brand of chips), you receive one of the pictures of the n of the members of the NOROC band. Over a period of time, you buy m ≥ n boxes of Chio. Write a computer program to compute the probability that you get all n members of NOROC. Use this program to find, for given n, the smallest value of m which will give probability ≥ .5 of getting all n pictures. Consider n = 50,100, and 150 and show that m = n log n + n log 2 is a good estimate for the number of boxes needed.
+Assume that every time you buy a box of Chio (a moldovan brand of chips), you receive one of the pictures of the *n* of the members of the NOROC band. Over a period of time, you buy *m ≥ n* boxes of Chio. Write a computer program to compute the probability that you get all *n* members of NOROC. Use this program to find, for given *n*, the smallest value of *m* which will give probability ≥ .5 of getting all *n* pictures. Consider n = 50,100, and 150 and show that **m = n log(n) + n log(2)** is a good estimate for the number of boxes needed.
 
 ### 4. Dangerous pixels
 ![](https://github.com/ViSilver/labs/blob/master/aux/danger_zone.png)
