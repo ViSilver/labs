@@ -1,5 +1,5 @@
 ### Submission rules 
-- You have to send the report to victor.turcanu8@gmail.com (to be updated to a corporate email)
+- You have to send the report to turcanu.victor8@gmail.com (to be updated to a corporate email)
 - The email title has to be [FAF-161][MS] Lab **X**, and must be sent from your corporate university email.
 - The report should contain the following:
   - A .pdf file with the problems
