@@ -11,7 +11,7 @@ Group 2: March 26th, 02:00 GMT+2
 - 2 problems on **Densities**
 - 1 problem on **Random Variables**
 - 2 problems on **Important Distribution**
-- 1 problem **Continuous Conditional probability**
+- 1 problem on **Continuous Conditional probability**
 
 ### 1. Densities
 Take a stick of unit length and break it into two pieces, choosing the breakpoint at random. Now break the longer of the two pieces at a random point. What is the probability that the three pieces can be used to form a triangle?
