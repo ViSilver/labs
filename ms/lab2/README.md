@@ -43,13 +43,13 @@ A game is played as follows: A random number X is chosen uniformly from `[0, 1]`
 ### 8. Random Variables
 An insurance company has `1000` policies on men of age `50`. The company estimates that the probability that a man of age `50` dies within a year is `0.01`. Estimate the number of claims that the company can expect from beneficiaries of these men within a year.
 
-### 10. Important Distributions
+### 9. Important Distributions
 Jora Petrovici never pays the *troleibuz* (cost = `2 lei` in Chisinau). He assumes that there is a probability of `0.05` that he will be caught by the *controlor*. The first offense costs `50 lei`, the second costs `150 lei`, and subsequent offenses cost `300 lei`. There’s also an empirically proven probability of `0.02` that the *taxatoarea* is a hairy muscular guy, which means that he’ll have to pay the 2 lei anyway. How does the expected cost of riding the *troleibuz* for a year (two times a day) without paying compare to the cost that is paid by us, law-abiding students?
 
-### 11. Important Distributions
+### 10. Important Distributions
 Assume that the probability that there is a significant accident in a nuclear power plant during one year’s time is `0.001`. If a country has `100` nuclear plants, estimate the probability that there is at least one Chernobyl (or Black Mesa) during a given year.
 
-### 12. Important Distributions
+### 11. Important Distributions
 Let `U` be a uniformly distributed random variable on `[0, 1]`. What is the probability that the equation `X^2 + 4U*X + 1 = 0` has two distinct real roots `x1` and `x2` ?
 
 ### 12. Continuous Probability
