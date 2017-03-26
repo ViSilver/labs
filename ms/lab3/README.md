@@ -12,9 +12,11 @@ Add the accumulated score to 3 to obtain your grade:
 - 3: 2.0
 - 4: 2.5
 - 5: 3.0
+- Bonus: +1 (cumulative)
 
 ##### Note
-In case you accumulated a mark in form of `x.5` (ex: `8.5`) the mark will strongly depend on your report. If you did a lousy job on your report the mark will be floored `$ echo "from math import floor; print(floor(8.5))" | python`.
+- In case you accumulated a mark in form of `x.5` (ex: `8.5`) the mark will strongly depend on your report. If you did a lousy job on your report the mark will be floored `$ echo "from math import floor; print(floor(8.5))" | python`.
+- Please use submission tags mentioned at the beginning.
 
 ### What to do?
 In this lab you have the opportunity to solve problems closer to real file. This implies that you have to combine your probability skills with **natural language processing** field, aka NLP. The dataset you are going to use is a list of tweets, found here [tweets.json](https://github.com/ViSilver/labs/blob/master/aux/tweets.json).
@@ -70,3 +72,14 @@ Ex. Input: `app`, Output: `application (324), apple (164), appreciate (53)`. Whe
 
 Ex. Input: `pro`, Output: `programming (196), product (176), program (103)`. Again `programming` has the highest frequency.
 
+## Bonus
+Write a program that receives as input a **word** and prints 3 word suggestions, followed by the **suggestion occurrences**.
+
+
+The suggestions should be selected in the following way. You have to go through your tweets dataset and identify every occurrence of the input word. At every occurrence collect the word that follows the input word. That is the suggestion you are looking for. And also don't forget to count the number of times you got the same suggestions. Ex: input `like` and you find 5 occurrences of `like beer` and 2 occurrences of `love labs`. Your suggestion words would be `beer` and `labs`. But `beer` has a priority because it occurred more times in your dataset. Your task it to select the most relevant suggestions as in the one that occurred the most.
+
+The input can be any completed word.
+
+Ex. Input: `love`, Output: `programming (5), cars (2), beer (2)`
+
+Ex. Input: `awesome`, Output: `party (10), language (4), framework (2)`
