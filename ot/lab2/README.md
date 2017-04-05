@@ -36,3 +36,8 @@ Unfortunately, although your kind uncle gave you the land, he didn’t give you 
 Considering that you’re a fan of linear programming, how do you go about organizing this area? What will you farm and how much of the area will you farm?
 
 Using your result, develop a simulation that will show your income over time. Use per-year estimations to develop your method. How will this method change if you consider that you won’t have to put the grapes in again each year? How will this change considering that you will the grape collectors 2 times less, but give them 100 liters of wine instead?
+
+## Note
+
+The penalties for passing the DL are as follows: 
+- from your mark it will be subtracted ceil(weeks(submission_date) - weeks(dl_date))
